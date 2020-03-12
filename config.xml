@@ -17,6 +17,6 @@
       ZwinCollege
   </author>
 
-<icon scr="icon.png"/>
+<icon src="icon.png"/>
 
 </widget>
